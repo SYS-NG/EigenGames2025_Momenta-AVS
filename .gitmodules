@@ -1,0 +1,12 @@
+[submodule "Audio-Checker-Docker"]
+	path = Audio-Checker-Docker
+	url = git@github.com:SYS-NG/Audio-Checker-Docker.git
+[submodule "Audio-Upload-UI-Docker"]
+	path = Audio-Upload-UI-Docker
+	url = git@github.com:SYS-NG/Audio-Upload-UI-Docker.git
+[submodule "Momenta-AVS"]
+	path = Momenta-AVS
+	url = git@github.com:SYS-NG/Momenta-AVS.git
+[submodule "Momenta-Inference-Docker"]
+	path = Momenta-Inference-Docker
+	url = git@github.com:SYS-NG/Momenta-Inference-Docker
